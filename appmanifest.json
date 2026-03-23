@@ -1,7 +1,7 @@
 {
-	"name": "Test",
-	"short_name": "Test",
-	"description": "",
+	"name": "Order in the Court The Unit 3 Interactive",
+	"short_name": "Order in the Court The Unit 3 Interactive",
+	"description": "An interactive 2D pixel-art game developed for the AP Government Unit 3 Project. This simulation explores 9 landmark Supreme Court cases regarding Civil Rights and Civil Liberties. Players navigate key legal battles, analyze constitutional clauses , and examine the lasting impact of these decisions on American life today.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
